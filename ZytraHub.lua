@@ -134,7 +134,7 @@ local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1, 0, 0, 25)
 Title.Position = UDim2.new(0, 0, 0, 5)
 Title.BackgroundTransparency = 1
-Title.Text = "ZytraHub FREE version"
+Title.Text = "ZytraHub RIVALS"
 Title.TextColor3 = currentTheme.title
 Title.TextSize = 18
 Title.Font = Enum.Font.GothamBlack
@@ -530,5 +530,5 @@ end)
 -- Применяем начальную тему
 applyTheme(currentTheme)
 
-print("ZytraHub FREE version loaded | B - ESP | Q - Aimbot | RightShift - Menu")
+print("ZytraHub - Free And Keyless | B - ESP | Q - Aimbot |")
 print("Join Discord: https://discord.gg/MUmd3h84")
